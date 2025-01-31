@@ -1,5 +1,6 @@
-public class hello {   // Save as "Hello.java" under "d:\myProject"
+public class hello {   
    public static void main(String[] args) {
       System.out.println("Hello, world!");
+      System.out.println("Helloworld en espagnol");
    }
 }
